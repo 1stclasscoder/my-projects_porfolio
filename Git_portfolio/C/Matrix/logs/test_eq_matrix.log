@@ -1,0 +1,10 @@
+Running suite s21_eq_matrix
+./Tests/Test_matrix/s21_test_eq_matrix.c:11:P:core_of_s21_eq_matrix:test_s21_eq_matrix_1:0: Passed
+./Tests/Test_matrix/s21_test_eq_matrix.c:31:P:core_of_s21_eq_matrix:test_s21_eq_matrix_2:0: Passed
+./Tests/Test_matrix/s21_test_eq_matrix.c:51:P:core_of_s21_eq_matrix:test_s21_eq_matrix_3:0: Passed
+./Tests/Test_matrix/s21_test_eq_matrix.c:71:P:core_of_s21_eq_matrix:test_s21_eq_matrix_4:0: Passed
+./Tests/Test_matrix/s21_test_eq_matrix.c:83:P:core_of_s21_eq_matrix:test_s21_eq_matrix_5:0: Passed
+./Tests/Test_matrix/s21_test_eq_matrix.c:103:P:core_of_s21_eq_matrix:test_s21_eq_matrix_6:0: Passed
+./Tests/Test_matrix/s21_test_eq_matrix.c:115:P:core_of_s21_eq_matrix:test_s21_eq_matrix_7:0: Passed
+Results for all suites run:
+100%: Checks: 7, Failures: 0, Errors: 0

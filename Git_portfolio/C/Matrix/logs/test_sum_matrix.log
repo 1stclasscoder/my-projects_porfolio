@@ -1,0 +1,6 @@
+Running suite s21_sum_matrix
+./Tests/Test_matrix/s21_test_sum_matrix.c:15:P:core_of_s21_sum_matrix:test_s21_sum_matrix_1:0: Passed
+./Tests/Test_matrix/s21_test_sum_matrix.c:37:P:core_of_s21_sum_matrix:test_s21_sum_matrix_2:0: Passed
+./Tests/Test_matrix/s21_test_sum_matrix.c:55:P:core_of_s21_sum_matrix:test_s21_sum_matrix_3:0: Passed
+Results for all suites run:
+100%: Checks: 3, Failures: 0, Errors: 0

@@ -1,0 +1,5 @@
+Running suite s21_sub_matrix
+./Tests/Test_matrix/s21_test_sub_matrix.c:14:P:core_of_s21_sub_matrix:test_s21_sub_matrix_1:0: Passed
+./Tests/Test_matrix/s21_test_sub_matrix.c:39:P:core_of_s21_sub_matrix:test_s21_sub_matrix_2:0: Passed
+Results for all suites run:
+100%: Checks: 2, Failures: 0, Errors: 0

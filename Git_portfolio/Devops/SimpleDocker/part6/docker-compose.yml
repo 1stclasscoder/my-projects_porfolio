@@ -1,0 +1,7 @@
+services:
+  german_server:
+    build: ../part5
+  proxyserver:
+    build: .
+    ports:
+      - 80:8080

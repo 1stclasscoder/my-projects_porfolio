@@ -1,0 +1,8 @@
+Running suite s21_remove_matrix
+./Tests/Test_matrix/s21_test_remove_matrix.c:9:P:core_of_s21_remove_matrix:test_s21_remove_matrix_1:0: Passed
+./Tests/Test_matrix/s21_test_remove_matrix.c:19:P:core_of_s21_remove_matrix:test_s21_remove_matrix_2:0: Passed
+./Tests/Test_matrix/s21_test_remove_matrix.c:29:P:core_of_s21_remove_matrix:test_s21_remove_matrix_3:0: Passed
+./Tests/Test_matrix/s21_test_remove_matrix.c:42:P:core_of_s21_remove_matrix:test_s21_remove_matrix_4:0: Passed
+./Tests/Test_matrix/s21_test_remove_matrix.c:55:P:core_of_s21_remove_matrix:test_s21_remove_matrix_5:0: Passed
+Results for all suites run:
+100%: Checks: 5, Failures: 0, Errors: 0

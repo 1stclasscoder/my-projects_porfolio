@@ -1,0 +1,8 @@
+Running suite s21_inverse_matrix
+./Tests/Test_matrix/s21_test_inverse_matrix.c:28:P:core_of_s21_inverse_matrix:test_s21_inverse_matrix_1:0: Passed
+./Tests/Test_matrix/s21_test_inverse_matrix.c:43:P:core_of_s21_inverse_matrix:test_s21_inverse_matrix_2:0: Passed
+./Tests/Test_matrix/s21_test_inverse_matrix.c:54:P:core_of_s21_inverse_matrix:test_s21_inverse_matrix_3:0: Passed
+./Tests/Test_matrix/s21_test_inverse_matrix.c:69:P:core_of_s21_inverse_matrix:test_s21_inverse_matrix_4:0: Passed
+./Tests/Test_matrix/s21_test_inverse_matrix.c:80:P:core_of_s21_inverse_matrix:test_s21_inverse_matrix_5:0: Passed
+Results for all suites run:
+100%: Checks: 5, Failures: 0, Errors: 0

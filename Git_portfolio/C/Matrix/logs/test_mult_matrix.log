@@ -1,0 +1,7 @@
+Running suite s21_mult_matrix
+./Tests/Test_matrix/s21_test_mult_matrix.c:26:P:core_of_s21_mult_matrix:test_s21_mult_matrix_1:0: Passed
+./Tests/Test_matrix/s21_test_mult_matrix.c:45:P:core_of_s21_mult_matrix:test_s21_mult_matrix_2:0: Passed
+./Tests/Test_matrix/s21_test_mult_matrix.c:75:P:core_of_s21_mult_matrix:test_s21_mult_matrix_3:0: Passed
+./Tests/Test_matrix/s21_test_mult_matrix.c:98:P:core_of_s21_mult_matrix:test_s21_mult_matrix_4:0: Passed
+Results for all suites run:
+100%: Checks: 4, Failures: 0, Errors: 0

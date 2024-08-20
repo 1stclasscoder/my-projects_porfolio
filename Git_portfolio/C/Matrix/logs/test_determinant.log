@@ -1,0 +1,8 @@
+Running suite s21_determinant
+./Tests/Test_matrix/s21_test_determinant.c:13:P:core_of_s21_determinant:test_s21_determinant_1:0: Passed
+./Tests/Test_matrix/s21_test_determinant.c:43:P:core_of_s21_determinant:test_s21_determinant_2:0: Passed
+./Tests/Test_matrix/s21_test_determinant.c:67:P:core_of_s21_determinant:test_s21_determinant_3:0: Passed
+./Tests/Test_matrix/s21_test_determinant.c:92:P:core_of_s21_determinant:test_s21_determinant_4:0: Passed
+./Tests/Test_matrix/s21_test_determinant.c:104:P:core_of_s21_determinant:test_s21_determinant_5:0: Passed
+Results for all suites run:
+100%: Checks: 5, Failures: 0, Errors: 0

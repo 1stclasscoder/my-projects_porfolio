@@ -1,0 +1,6 @@
+Running suite s21_calc_complements
+./Tests/Test_matrix/s21_test_calc_complements.c:9:P:core_of_s21_calc_complements:test_s21_calc_complements_1:0: Passed
+./Tests/Test_matrix/s21_test_calc_complements.c:19:P:core_of_s21_calc_complements:test_s21_calc_complements_2:0: Passed
+./Tests/Test_matrix/s21_test_calc_complements.c:58:P:core_of_s21_calc_complements:test_s21_calc_complements_3:0: Passed
+Results for all suites run:
+100%: Checks: 3, Failures: 0, Errors: 0

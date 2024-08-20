@@ -1,0 +1,5 @@
+Running suite s21_mult_number
+./Tests/Test_matrix/s21_test_mult_number.c:10:P:core_of_s21_mult_number:test_s21_mult_number_1:0: Passed
+./Tests/Test_matrix/s21_test_mult_number.c:29:P:core_of_s21_mult_number:test_s21_mult_number_2:0: Passed
+Results for all suites run:
+100%: Checks: 2, Failures: 0, Errors: 0

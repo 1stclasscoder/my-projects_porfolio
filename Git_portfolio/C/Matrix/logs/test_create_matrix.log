@@ -1,0 +1,8 @@
+Running suite s21_create_matrix
+./Tests/Test_matrix/s21_test_create_matrix.c:7:P:core_of_s21_create_matrix:test_s21_create_matrix_1:0: Passed
+./Tests/Test_matrix/s21_test_create_matrix.c:15:P:core_of_s21_create_matrix:test_s21_create_matrix_2:0: Passed
+./Tests/Test_matrix/s21_test_create_matrix.c:23:P:core_of_s21_create_matrix:test_s21_create_matrix_3:0: Passed
+./Tests/Test_matrix/s21_test_create_matrix.c:31:P:core_of_s21_create_matrix:test_s21_create_matrix_4:0: Passed
+./Tests/Test_matrix/s21_test_create_matrix.c:39:P:core_of_s21_create_matrix:test_s21_create_matrix_5:0: Passed
+Results for all suites run:
+100%: Checks: 5, Failures: 0, Errors: 0
